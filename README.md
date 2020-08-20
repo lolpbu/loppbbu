@@ -37,4 +37,4 @@ some functions that i find useful lol
 
 # that's it
 
-*yeah*
+.
