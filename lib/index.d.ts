@@ -2,7 +2,7 @@
 
 /**
  * returns a random value from the arguments
- * @param {any} ... values
+ * @param ... values
  * @example let random_value = choose(4, false, "lol");
  */
 export declare function choose(): any;
@@ -32,6 +32,12 @@ export declare function iRandom(n: number): number;
  * @param n2 max value
  */
 export declare function iRandomRange(n1: number, n2: number): number;
+
+/**
+ * returns a random element of an array arr
+ * @param arr the array
+ */
+export declare function randomArray(arr: any[]): any;
 
 //#endregion
 

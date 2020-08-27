@@ -25,6 +25,10 @@ export function iRandomRange(n1:number, n2:number):number{
     return Math.floor(Math.random() * (n2-n1 + 1) + n1);
 }
 
+export function randomArray(arr:any[]):any {
+    return arr[Math.floor(Math.random() * arr.length)];
+}
+
 //#endregion
 
 //#region GENERATE KEYS
