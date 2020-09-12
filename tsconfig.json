@@ -3,7 +3,7 @@
     /* Basic Options */
     "target": "es5",
     "module": "commonjs",
-    "outDir": "lib",
+    "outDir": "src",
     "removeComments": true,
     "declarationDir": "typings/declarations",
     "declaration": true,
