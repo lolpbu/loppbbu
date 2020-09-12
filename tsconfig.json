@@ -2,9 +2,9 @@
   "compilerOptions": {
     /* Basic Options */
     "target": "es5",
-    "module": "commonjs",
-    "outDir": "lib",
+    "module": "System",
     "removeComments": true,
+    "outFile": "lib/index.js",
 
     /* Strict Type-Checking Options */
     "strict": true,
@@ -24,6 +24,5 @@
   },
   "include": [
     "src",
-    "src/typings"
   ]
 }
