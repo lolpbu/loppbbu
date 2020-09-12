@@ -25,6 +25,7 @@
     "forceConsistentCasingInFileNames": true
   },
   "include": [
-    "src", "src/randoms.d.ts", "src/misc.d.ts", "src/generate_key.d.ts"
+    "src",
+    "src/typings"
   ]
 }
