@@ -2,9 +2,9 @@
   "name": "loppbbu",
   "version": "1.1.0",
   "description": "some functions that i find useful lol",
-  "main": "lib/index.js",
+  "main": "src/index.js",
   "directories": {
-    "lib": "lib"
+    "lib": "src"
   },
   "dependencies": {},
   "devDependencies": {},
