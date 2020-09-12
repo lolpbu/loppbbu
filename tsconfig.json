@@ -5,8 +5,8 @@
     "module": "commonjs",
     "outDir": "src",
     "removeComments": true,
-    "declarationDir": "typings/types",
-    "declaration": true,
+    //"declarationDir": "typings/types",
+    //"declaration": true,
 
     /* Strict Type-Checking Options */
     "strict": true,
