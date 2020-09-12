@@ -1,6 +1,6 @@
 {
   "name": "loppbbu",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "description": "some functions that i find useful lol",
   "main": "src/index.js",
   "directories": {
