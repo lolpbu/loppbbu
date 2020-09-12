@@ -3,7 +3,7 @@
     /* Basic Options */
     "target": "es5",
     "module": "commonjs",
-    "outDir": "src",
+    "outDir": "lib",
     "removeComments": true,
     //"declarationDir": "typings/types",
     //"declaration": true,
@@ -25,6 +25,6 @@
     "forceConsistentCasingInFileNames": true
   },
   "include": [
-    "typings"
+    "src", "src/randoms.d.ts", "src/misc.d.ts", "src/generate_key.d.ts"
   ]
 }
