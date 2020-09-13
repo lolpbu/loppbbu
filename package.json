@@ -16,9 +16,6 @@
     "type": "git",
     "url": "git+https://github.com/lolpbu/loppbbu.git"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
   "author": "lopbu",
   "license": "ISC",
   "bugs": {
