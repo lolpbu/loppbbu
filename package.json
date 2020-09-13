@@ -3,10 +3,6 @@
   "version": "1.2.5",
   "description": "some functions that i find useful lol",
   "main": "lib/index.js",
-  "directories": {
-    "lib": "lib",
-    "test": "test"
-  },
   "dependencies": {},
   "devDependencies": {},
   "scripts": {

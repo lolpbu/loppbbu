@@ -31,7 +31,7 @@ some functions that i find useful lol
     * `generateLetters(l: number): string`
 * **generateNumber** - returns a random string of numbers with a length *l*
     * `generateNumber(l: number): string`
-* **generateCustom** - returns a random string made of the content of the string *str*
+* **generateCustom** - returns a random string made of the content of the string *str* with a length *l*
     * `generateCustom(l: number, str: string): string`
 
 ## misc
