@@ -11,15 +11,5 @@
   "devDependencies": {},
   "scripts": {
     "build": "tsc -p ."
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/lolpbu/loppbbu.git"
-  },
-  "author": "lopbu",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/lolpbu/loppbbu/issues"
-  },
-  "homepage": "https://github.com/lolpbu/loppbbu#readme"
+  }
 }
