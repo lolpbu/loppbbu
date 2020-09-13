@@ -1,1 +1,1 @@
-const a = require("../lib/index");
+const a = require("../lib/randoms");
