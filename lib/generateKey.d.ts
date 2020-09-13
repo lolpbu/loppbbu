@@ -21,4 +21,4 @@ export declare function generateNumber(l: number): string;
  * @param l the string's length
  * @param str the string
  */
-export declare function generateCustom(l: number, str: string): void;
+export declare function generateCustom(l: number, str: string): string;

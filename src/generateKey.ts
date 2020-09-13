@@ -45,4 +45,5 @@ export function generateCustom(l:number, str:string){
     for(let i=0; i<l; i++){
         res += str.charAt(Math.floor(Math.random() * str.length));
     }
+    return res;
 }
