@@ -3,12 +3,9 @@
     "target": "es5",
     "module": "CommonJS",
 
-    "removeComments": true,
     "outDir": "lib",
     "rootDir": "src",
-    ////"declaration": true,
-    //! don't set declaration to true
-    //! readon: it will remove the JSDoc comments
+    "declaration": true,
 
     "strict": true,
 
@@ -19,6 +16,6 @@
   },
   "exclude": [
     "test",
-    "lib/typings"
+    "lib"
   ]
 }
