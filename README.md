@@ -4,7 +4,7 @@ some functions that i find useful lol
 
 # installation
 
-`npm install loppbbu --save`
+`npm install loppbbu`
 
 # functions
 
