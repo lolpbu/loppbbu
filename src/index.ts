@@ -22,7 +22,7 @@ export function iRandomRange(n1: number, n2: number): number {
 }
 
 export function randomArray(arr: any[]): any {
-    return arr[Math.random() * arr.length];
+    return arr[Math.floor(Math.random() * arr.length)];
 }
 
 //#endregion
